@@ -1,0 +1,2 @@
+# Import Data to MongoDB
+mongoimport --jsonArray --db bookstore --collection book --file data/book.json
